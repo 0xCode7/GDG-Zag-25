@@ -20,8 +20,8 @@ This task involves implementing a shopping cart system in PHP using MySQL as the
 2. Start Apache and MySQL in XAMPP.
 3. Create the database in MySQL (see the database details below).
 4. Import the provided SQL file to create tables and insert sample data.
-5. Configure the database connection in `config.php`.
-6. Open the project in a browser (e.g., `http://localhost/e-commerce/cart.php`).
+5. Configure the database connection in `db.php`.
+6. Open the project in a browser (e.g., `http://localhost/Task-8/`).
 
 ## Database Details
 
