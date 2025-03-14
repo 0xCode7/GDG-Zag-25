@@ -50,7 +50,7 @@ CREATE TABLE products (
 ### Product Management Routes
 - `POST /product/create.php` → Create a new product.
 - `GET /product/index.php` → Retrieve all products.
-- `POST /product/update.php?id={id}` → Update product details.
+- `POST /product/edit.php?id={id}` → Update product details.
 - `GET /product/delete.php?id={id}` → Delete a product.
 
 ## Notes
