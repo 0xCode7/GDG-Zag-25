@@ -1,0 +1,54 @@
+body {
+    background-color: #f1f1f1;
+}
+
+#wrapper {
+    width: 30%;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #e3e3e3;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.input-group {
+    margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+
+.input-group input {
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #337ab7;
+    border: none;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
